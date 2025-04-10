@@ -1,12 +1,14 @@
+![Tech With Aliff](https://github.com/user-attachments/assets/cfcbb0b7-073e-4f67-b713-14fe92a3b5b9)
+
 # 👋 Hey, I'm Aliff
 
-### ☁️ Driven by a Passion for Cloud Technology
+### ☁️ Driven by a Passion for Cloud Computing
 
 I'm a 19-year-old first-year Cybersecurity student exploring the **AWS Cloud Engineering** space, and sharing my journey so we can grow and learn together.
 
 ---
 
-<h3 align="left">Tech Stack</h2>
+<h3 align="left">Tech Stack (Still Learning)</h2>
 
 ###
 
@@ -26,18 +28,20 @@ I'm a 19-year-old first-year Cybersecurity student exploring the **AWS Cloud Eng
 
 ### 🔧 What I’m Working On
 
+- 🎨 Learning core AWS services (EC2, S3, IAM, Lambda & more)
 - 🍀 Building hands-on AWS Projects – Coming soon...
 - 🎯 Preparing for AWS Certified Cloud Practitioner
+- 💎 Sharing my knowledge with you along the way!
 
 ---
 
-### 🌍 Let’s Connect
-- 💎 [LinkedIn](https://linkedin.com/in/aliff-hazim/)  
+### 👉 Let’s Connect
+- [LinkedIn](https://linkedin.com/in/aliff-hazim/)  
 
 ---
 
 ### ⚡ Quick Byte
-> Want to suggest some ideas, to execute it strategically? [Reach out!](https://www.linkedin.com/in/aliff-hazim/)
+> I'm open to learning groups, or just brainstorming cool cloud ideas? [Reach out!](https://www.linkedin.com/in/aliff-hazim/)
 
 ---
 
